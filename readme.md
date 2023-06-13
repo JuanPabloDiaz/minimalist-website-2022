@@ -10,6 +10,8 @@ This repo was created following a Youtube video. I folked the project and custom
 
 A Minimalist Website.
 
+### [Demo](http://jpdiaz.dev/minimalist-website-2022/)
+
 ### Courses & Certifications
 
 To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
