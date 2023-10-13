@@ -10,7 +10,7 @@ This repo was created following a Youtube video. I folked the project and custom
 
 A Minimalist Website.
 
-### [Demo](http://jpdiaz.dev/minimalist-website-2022/)
+### [Demo](https://minimalist-website-2022.vercel.app/)
 
 ### Courses & Certifications
 
